@@ -75,6 +75,6 @@ if has("autocmd")
 endif " has("autocmd")
 
 set backupdir=/backup
-filetype off
-call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
+"filetype off
+"call pathogen#runtime_append_all_bundles()
+"call pathogen#helptags()
